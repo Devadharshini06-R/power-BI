@@ -69,7 +69,7 @@ Installation and Setup
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/yourusername/sales-and-profit-analysis-for-chocolate-products.git
+git clone https://github.com/Devadharshini06-R/sales-and-profit-analysis-for-chocolate-products.git
 Open the .pbix file in Power BI Desktop.
 
 Review the data model and explore the dashboards.
