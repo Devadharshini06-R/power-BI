@@ -64,28 +64,5 @@ Gauge Charts: For tracking profit and shipment targets.
 Line Charts: To display sales trends over time.
 
 Bar and Column Charts: Comparative analysis of product categories and regions.
-Installation and Setup
-
-Clone the repository to your local machine:
-bash
-Copy code
-git clone https://github.com/Devadharshini06-R/sales-and-profit-analysis-for-chocolate-products.git
-Open the .pbix file in Power BI Desktop.
-
-Review the data model and explore the dashboards.
-How to Use
-
-Open the Power BI dashboard.
-Use the slicers on the right side to filter data by time period, product category, region, or sales channel.
-Hover over visuals to get detailed tooltip insights.
-Navigate between pages for different analysis sections (Sales Overview, Shipment Analysis, Profit Breakdown).
-
-Future Enhancements
-
-Predictive Analysis: Adding forecasting for future sales and profit trends.
-
-Geographical Maps: Incorporating more advanced location-based analytics.
-
-More Custom Visualizations: Enhancing the dashboard with additional custom visuals for deeper insights.
 
 
