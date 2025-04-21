@@ -3,7 +3,7 @@
 This Power BI project provides an in-depth analysis of sales, shipment, and profit metrics for a chocolate product company. The dashboard is designed to give users a clear understanding of the company's performance over time, enabling data-driven decision-making.
 
 ---
-## Project Overview
+## </a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Microsoft Power BI" width="30" height="30">Project Overview
 
 
 The project is a comprehensive sales analysis that leverages Power BI's data modeling, visualization, and DAX capabilities. The analysis focuses on key metrics like sales revenue, profit margins, shipment performance, and product category breakdowns, with dynamic visualizations and interactive features
