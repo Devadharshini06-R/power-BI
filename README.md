@@ -1,4 +1,4 @@
-# **Sales and Profit Analysis for Chocolate Products**
+#  📊**Sales and Profit Analysis for Chocolate Products**
 
 This Power BI project provides an in-depth analysis of sales, shipment, and profit metrics for a chocolate product company. The dashboard is designed to give users a clear understanding of the company's performance over time, enabling data-driven decision-making.
 
@@ -10,7 +10,7 @@ The project is a comprehensive sales analysis that leverages Power BI's data mod
 
 ---
 
-## Features
+## 📈 Features
 
 ### Sales Performance Analysis: 
 
@@ -54,12 +54,12 @@ Performance metrics related to shipping times and costs.
 Weight-related metrics for better inventory management.
 
 ---
-## Data Sources
+## 📜 Data Sources
 
 The data used for this analysis is a mock dataset representing sales and shipment data for chocolate products. 
 
 ---
-## Key dimensions include:
+## 📒 Key dimensions include:
 
 ### Date:
 
@@ -83,7 +83,7 @@ Shipment and logistics-related metrics
 
 ---
 
-## DAX Functions
+## 📊 DAX Functions
 This project makes use of several advanced DAX functions to deliver meaningful insights, including:
 
 ### CALCULATE: 
@@ -104,7 +104,7 @@ For ranking regions and product categories by sales and profit.
 
 ---
 
-## Visualization Types
+## 📁 Visualization Types
 
 ### Dynamic Histograms: 
 
