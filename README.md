@@ -52,10 +52,12 @@ Performance metrics related to shipping times and costs.
 ### LBS%:
 
 Weight-related metrics for better inventory management.
+
 ---
 ## Data Sources
 
 The data used for this analysis is a mock dataset representing sales and shipment data for chocolate products. 
+
 ---
 ## Key dimensions include:
 
